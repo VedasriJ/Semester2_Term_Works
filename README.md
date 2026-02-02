@@ -12,7 +12,6 @@ verification, and testing.
 ## Repository Structure
 Each tool-specific directory includes:
 - Experiment reports (PDF)
-- Tool input scripts / decks
 - Supporting design or verification files (where applicable)
 
 ## Notes
