@@ -2,13 +2,12 @@
 
 This repository contains laboratory experiment reports and supporting artifacts
 for industry-standard Electronic Design Automation (EDA) tools used in VLSI design,
-verification, testing, and device simulation.
+verification, and testing.
 
 ## Tools Covered
-- Synopsys Design Compiler – RTL synthesis and timing analysis
+- Synopsys Design Compiler – RTL synthesis and timing analysis (will add soon)
 - Synopsys VCS – SystemVerilog-based simulation and verification
-- Synopsys TestMAX – Design-for-Testability (DFT) and ATPG
-- Silvaco TCAD ATLAS – Semiconductor device-level simulation
+- Synopsys TestMAX – Design-for-Testability (DFT) and ATPG (will add soon)
 
 ## Repository Structure
 Each tool-specific directory includes:
